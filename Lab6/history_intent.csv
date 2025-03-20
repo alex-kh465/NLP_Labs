@@ -1,0 +1,11 @@
+text,intent
+"Tell me about World War 2","history_event"
+"When did the Cold War begin?","history_event"
+"What was the cause of the French Revolution?","history_event"
+"Give an example of a great leader in history","example_request"
+"Can you tell me a story from ancient Rome?","example_request"
+"Who won the Battle of Hastings?","history_event"
+"Explain why the Roman Empire fell","history_event"
+"What are some key moments in American history?","history_summary"
+"Give me a summary of the Industrial Revolution","history_summary"
+"Tell me about Napoleon","historical_figure"
